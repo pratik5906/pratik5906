@@ -8,7 +8,7 @@ Computer Science graduate (2025) transitioning into **Data Analytics**, passiona
 
 ## 💫 About Me
 
-- 🎓 B.E. in Computer Science (CGPA: 7.13)
+- 🎓 B.E. in Computer Science
 - 📊 Data Analytics & Business Intelligence
 - 🐍 Python (pandas, numpy)
 - 🧮 SQL (joins, reporting, analytics)
