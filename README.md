@@ -30,13 +30,14 @@ I’m open to collaborating on **data analytics and BI projects** and enjoy solv
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Activity:
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratik5906&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=pratik5906&show_icons=true&theme=dark" referrerpolicy="no-referrer" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pratik5906&theme=dark&date_format=j%20M%5B%20Y%5D)
+<img src="https://streak-stats.demolab.com?user=pratik5906&theme=dark" referrerpolicy="no-referrer" />
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pratik5906&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik5906&layout=compact&theme=dark" referrerpolicy="no-referrer" />
+
 
 
 ---
